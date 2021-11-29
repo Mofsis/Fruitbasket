@@ -1,0 +1,83 @@
+body{
+    margin: 20px;
+}
+
+.fruit {
+    display: block;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 2px;
+    margin-bottom: 20px;
+    width: 350px;
+    text-align: center;
+}
+img, h2, button, p {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+
+h2, p {
+    display: inline-block;
+}
+
+.reset {
+    display: block;
+    align-items: center;
+    margin-top: 25px;
+    width: 357px;
+    padding: 5px;
+    text-align: center;
+}
+
+img {
+    height: 20px;
+    width: 20px;
+    margin-top: 20px;
+}
+
+.first-name, .last-name, .zipcode, .age {
+    display: block;
+    margin: 10px;
+}
+
+.first-name input, .last-name input, .zipcode input, .age input {
+    margin-left: 10px;
+}
+
+label input {
+
+}
+
+.dropdown {
+    display: block;
+    margin-top: 30px;
+}
+
+.select {
+    display: block;
+    margin-top: 10px;
+}
+
+.radio {
+    display: block;
+    margin: 20px 0 20px 0;
+}
+
+.comment-field {
+    display: inline-block;
+    margin-bottom: 10px;
+}
+textarea {
+    display: block;
+}
+
+.conditions {
+    display: block;
+    margin-bottom: 10px;
+}
+
+form {
+    margin-top: 40px;
+    width: 350px;
+}
